@@ -1,6 +1,6 @@
 <resources>
 
-    <!--    Questions, answers, explanations -->
+    <!--    Questions, options, explanations -->
     <string name="q_1">My bike is OK now. I … it.</string>
     <string name="q_1_op_1">\'ve repaired</string>
     <string name="q_1_op_2">\'ve been repairing</string>
